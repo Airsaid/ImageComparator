@@ -4,6 +4,14 @@ Image comparator on Android.
 # Preview
 ![image](https://github.com/Airsaid/ImageComparator/blob/master/previews/preview.gif)
 
+# Installation
+Add the following dependency to your ```build.gradle``` file:
+```
+dependencies {
+    implementation 'com.airsaid:image-comparator:1.0.0'
+}
+```
+
 # Usage
 ```
 val imageComparator = ImageComparator(AverageHashComparison())
