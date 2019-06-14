@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ImageComparator</string>
+    <string name="choose_image">Choose</string>
+    <string name="start_comparison">Comparison</string>
+    <string name="no_permission">No Permission!</string>
+    <string name="load_image_failed">Load image failed!</string>
+    <string name="please_select_image">Please select image</string>
+    <string name="comparison_result">Result: %1$.2f</string>
+    <string name="please_select_source_image">Please select source image</string>
+    <string name="please_select_target_image">Please select target image</string>
+    <string name="a_hash">a-hash</string>
+    <string name="d_hash">d-hash</string>
+</resources>
