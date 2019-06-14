@@ -2,7 +2,7 @@
 Image comparator on Android.
 
 # Preview
-![image](https://github.com/Airsaid/ImageComparator/blob/master/Previews/preview.gif)
+![image](https://github.com/Airsaid/ImageComparator/blob/master/previews/preview.gif)
 
 # Usage
 ```
