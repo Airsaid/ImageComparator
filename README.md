@@ -8,7 +8,7 @@ Image comparator on Android.
 Add the following dependency to your ```build.gradle``` file:
 ```
 dependencies {
-    implementation 'com.airsaid:image-comparator:1.0.0'
+    implementation 'com.airsaid:image-comparator:1.0.1'
 }
 ```
 
